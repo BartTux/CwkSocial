@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "l+qBXKqMGGlGWi6EDoKCPsl7avTfRfgzB1+8NDQOTm+ZThnwsAtdRDpxa+pkYR1Rf0rXsAnukMEw4o8gd0aOrg==",
+  "dgSpecHash": "o7ugBURrmfP5Pa57rBgSC+/XmVp9JkZYxO1EI60tqfWaTjiHZajxQlTayVEzwS9ihYNjLKSN8U0sK6pULC1rlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
