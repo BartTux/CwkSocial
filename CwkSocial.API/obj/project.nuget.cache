@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o7ugBURrmfP5Pa57rBgSC+/XmVp9JkZYxO1EI60tqfWaTjiHZajxQlTayVEzwS9ihYNjLKSN8U0sK6pULC1rlA==",
+  "dgSpecHash": "yd2CqMuOVHFvz1DWYlJVvX+LdeiLBUzHA6rwr761HQinIVicl5laEQIR9MKfEQn3MMLCkkQ78RWkDfUwigSZig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.API.csproj",
+  "projectFilePath": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.API.csproj": {}
+    "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.API.csproj": {
+    "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.API.csproj",
-        "projectName": "CwkSocial.API",
-        "projectPath": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.API.csproj",
+        "projectUniqueName": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.Api.csproj",
+        "projectName": "CwkSocial.Api",
+        "projectPath": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\CwkSocial.Api.csproj",
         "packagesPath": "C:\\Users\\Bartek\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Bartek\\source\\repos\\CwkSocial\\CwkSocial.API\\obj\\",
         "projectStyle": "PackageReference",

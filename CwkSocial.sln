@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkSocial.API", "CwkSocial.API\CwkSocial.API.csproj", "{666E403E-464D-455C-9496-086D36E4A107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CwkSocial.Api", "CwkSocial.API\CwkSocial.Api.csproj", "{666E403E-464D-455C-9496-086D36E4A107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkSocial.Domain", "CwkSocial.Domain\CwkSocial.Domain.csproj", "{A9199A88-4995-4189-913E-EB630DBE1F9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CwkSocial.Domain", "CwkSocial.Domain\CwkSocial.Domain.csproj", "{A9199A88-4995-4189-913E-EB630DBE1F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkSocial.Infrastructure", "CwkSocial.Infrastructure\CwkSocial.Infrastructure.csproj", "{31A95664-B6B9-49C4-BE9E-FEB94DB111B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CwkSocial.Infrastructure", "CwkSocial.Infrastructure\CwkSocial.Infrastructure.csproj", "{31A95664-B6B9-49C4-BE9E-FEB94DB111B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkSocial.Application", "CwkSocial.Application\CwkSocial.Application.csproj", "{53436A47-BB00-4DAD-8C06-228A075815FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CwkSocial.Application", "CwkSocial.Application\CwkSocial.Application.csproj", "{53436A47-BB00-4DAD-8C06-228A075815FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
