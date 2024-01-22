@@ -15,8 +15,7 @@ public class MvcWebAppRegistrar : IWebApplicationRegistrar
             provider.ApiVersionDescriptions
                 .ToList()
                 .ForEach(desc =>
-                    options.SwaggerEndpoint($"/swagger/{desc.GroupName}/swagger.json",
-                        desc.ApiVersion.ToString())
+                    options.SwaggerEndpoint($"/swagger/{desc.GroupName}/swagger.json", desc.ApiVersion.ToString())
                  );
         });
 

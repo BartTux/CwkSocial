@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\CwkSocial.API.props" />
+  <Import Project="..\build\CwkSocial.Api.props" />
 </Project>

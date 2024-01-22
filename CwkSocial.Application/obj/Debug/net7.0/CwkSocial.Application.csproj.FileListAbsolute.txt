@@ -1,0 +1,11 @@
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\bin\Debug\net7.0\CwkSocial.Application.deps.json
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\bin\Debug\net7.0\CwkSocial.Application.dll
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\bin\Debug\net7.0\CwkSocial.Application.pdb
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\CwkSocial.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\CwkSocial.Application.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\CwkSocial.Application.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\CwkSocial.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\CwkSocial.Application.dll
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\refint\CwkSocial.Application.dll
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\CwkSocial.Application.pdb
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Application\obj\Debug\net7.0\ref\CwkSocial.Application.dll

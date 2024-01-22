@@ -1,0 +1,17 @@
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\bin\Debug\net7.0\CwkSocial.Infrastructure.deps.json
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\bin\Debug\net7.0\CwkSocial.Infrastructure.runtimeconfig.json
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\bin\Debug\net7.0\CwkSocial.Infrastructure.dll
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\bin\Debug\net7.0\CwkSocial.Infrastructure.pdb
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\bin\Debug\net7.0\CwkSocial.Domain.dll
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\bin\Debug\net7.0\CwkSocial.Domain.pdb
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.csproj.CopyComplete
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.dll
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\refint\CwkSocial.Infrastructure.dll
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.pdb
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\CwkSocial.Infrastructure.genruntimeconfig.cache
+C:\Users\Bartek\source\repos\CwkSocial\CwkSocial.Infrastructure\obj\Debug\net7.0\ref\CwkSocial.Infrastructure.dll
