@@ -8,6 +8,11 @@ internal class CommentConfig : IEntityTypeConfiguration<Comment>
 {
     public void Configure(EntityTypeBuilder<Comment> builder)
     {
-        builder.HasKey(c => c.Id);
+        builder.HasKey(x => x.Id);
+        builder
+            .HasOne(c => c.UserProfile)
+            .WithMany()
+            .HasForeignKey(c => c.UserProfileId)
+            .OnDelete(DeleteBehavior.NoAction);
     }
 }

@@ -17,11 +17,12 @@ public class AppDbContext : IdentityDbContext
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
-        builder.ApplyConfiguration(new CommentConfig());
-        builder.ApplyConfiguration(new InteractionConfig());
-        builder.ApplyConfiguration(new UserProfileConfiguration());
-        builder.ApplyConfiguration(new IdentityUserLoginConfiguration());
-        builder.ApplyConfiguration(new IdentityUserRoleConfiguration());
-        builder.ApplyConfiguration(new IdentityUserTokenConfiguration());
+        builder
+            .ApplyConfiguration(new CommentConfig())
+            .ApplyConfiguration(new InteractionConfig())
+            .ApplyConfiguration(new UserProfileConfig())
+            .ApplyConfiguration(new IdentityUserLoginConfig())
+            .ApplyConfiguration(new IdentityUserRoleConfig())
+            .ApplyConfiguration(new IdentityUserTokenConfig());
     }
 }

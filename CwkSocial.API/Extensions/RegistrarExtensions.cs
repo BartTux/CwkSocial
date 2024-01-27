@@ -27,9 +27,7 @@ public static class RegistrarExtensions
         where T : IRegistrar => scanningType.Assembly
             .GetTypes()
             .Where(type =>
-                type.IsAssignableTo(typeof(T))
-                && !type.IsAbstract
-                && !type.IsInterface)
+                type.IsAssignableTo(typeof(T)) && !type.IsAbstract && !type.IsInterface)
             .Select(Activator.CreateInstance)
             .Cast<T>();
 }

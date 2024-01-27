@@ -1,6 +1,7 @@
 ﻿using CwkSocial.API.Registrars.Contracts;
 using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.AspNetCore.Mvc;
+using CwkSocial.API.Controllers.V1;
 
 namespace CwkSocial.API.Registrars;
 

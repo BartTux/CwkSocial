@@ -6,5 +6,6 @@ public enum InteractionTypeEnum
     Dislike,
     Laugh,
     Wow,
-    Love
+    Love,
+    Angry
 }

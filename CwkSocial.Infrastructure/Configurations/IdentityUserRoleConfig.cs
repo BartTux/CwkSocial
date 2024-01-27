@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace CwkSocial.Infrastructure.Configurations;
 
-internal class IdentityUserRoleConfiguration : IEntityTypeConfiguration<IdentityUserRole<string>>
+internal class IdentityUserRoleConfig : IEntityTypeConfiguration<IdentityUserRole<string>>
 {
     public void Configure(EntityTypeBuilder<IdentityUserRole<string>> builder)
     {

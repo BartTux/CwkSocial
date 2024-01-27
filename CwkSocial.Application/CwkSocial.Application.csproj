@@ -6,4 +6,21 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Posts\CommandHandlers\" />
+    <Folder Include="Posts\Commands\" />
+    <Folder Include="Posts\Queries\" />
+    <Folder Include="Posts\QueryHandlers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CwkSocial.Domain\CwkSocial.Domain.csproj" />
+    <ProjectReference Include="..\CwkSocial.Infrastructure\CwkSocial.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

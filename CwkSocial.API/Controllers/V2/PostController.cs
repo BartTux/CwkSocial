@@ -6,7 +6,7 @@ namespace CwkSocial.API.Controllers.V2;
 [ApiController]
 [ApiVersion("2.0")]
 [Route("api/v{version:apiVersion}/[controller]")]
-public class PostsController : ControllerBase
+public class PostController : ControllerBase
 {
     [HttpGet("{id:int}")]
     public IActionResult GetById(int id)

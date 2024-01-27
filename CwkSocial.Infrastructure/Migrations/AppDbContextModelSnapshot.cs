@@ -48,6 +48,8 @@ namespace CwkSocial.Infrastructure.Migrations
 
                     b.HasIndex("PostId");
 
+                    b.HasIndex("UserProfileId");
+
                     b.ToTable("Comment");
                 });
 
@@ -292,6 +294,14 @@ namespace CwkSocial.Infrastructure.Migrations
                         .HasForeignKey("PostId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.HasOne("CwkSocial.Domain.Aggregates.UserProfileAggregate.UserProfile", "UserProfile")
+                        .WithMany()
+                        .HasForeignKey("UserProfileId")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("UserProfile");
                 });
 
             modelBuilder.Entity("CwkSocial.Domain.Aggregates.PostAggregate.Interaction", b =>

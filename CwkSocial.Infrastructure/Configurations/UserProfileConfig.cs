@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace CwkSocial.Infrastructure.Configurations;
 
-internal class UserProfileConfiguration : IEntityTypeConfiguration<UserProfile>
+internal class UserProfileConfig : IEntityTypeConfiguration<UserProfile>
 {
     public void Configure(EntityTypeBuilder<UserProfile> builder)
     {

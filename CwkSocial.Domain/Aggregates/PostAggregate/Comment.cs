@@ -5,7 +5,10 @@ namespace CwkSocial.Domain.Aggregates.PostAggregate;
 public class Comment
 {
     public Guid Id { get; private set; }
+
     public Guid UserProfileId { get; private set; }
+    public UserProfile UserProfile { get; private set; }
+
     public Guid PostId { get; private set; }
     public string TextContent { get; private set; }
     public DateTime CreatedAt { get; private set; }

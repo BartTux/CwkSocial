@@ -9,7 +9,7 @@ public class UserProfile
     public DateTime LastModifiedAt { get; private set; }
 
 
-    private UserProfile() { }
+    private UserProfile() {}
 
 
     // TODO: Add validation, error handling strategies, error notification strategies 
